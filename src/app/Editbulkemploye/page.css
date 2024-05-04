@@ -1,0 +1,48 @@
+.employe_text1 {
+    color: #023A51;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.formtext1 {
+    color: #023A51;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+
+
+.btn_uplod {
+    color: #59667D !important;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-radius: 5px !important;
+    border: 1px solid #28A5C1 !important;
+    background: #FFF !important;
+    box-shadow: 0px 1px 20px 1px rgba(40, 165, 193, 0.15) !important;
+    padding: 4px 30px !important;
+
+}
+
+.btn_chose {
+    color: #59667D !important;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-radius: 5px !important;
+    border: 1px solid #28A5C1 !important;
+    background: #FFF !important;
+    box-shadow: 0px 1px 20px 1px rgba(40, 165, 193, 0.15) !important;
+
+}

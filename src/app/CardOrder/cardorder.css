@@ -1,0 +1,81 @@
+.textstyle1 {
+    color: #194150 !important;
+    font-size: 14px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.textstyle2 {
+    color: #023A51;
+    font-size: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.textstyle3 {
+    color: #023A51;
+    font-size: 22px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.textstyle4 {
+    color: #023A51;
+    font-size: 12px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+
+
+
+.canselbtn {
+    border-radius: 5px !important;
+
+    border: 2px solid #28A5C1 !important;
+    padding: 5px 32px !important;
+    color: #28A5C1 !important;
+
+}
+
+.canselbtn:hover {
+    border-radius: 5px !important;
+    background: #0f414d !important;
+    border: 2px solid #0f414d !important;
+    padding: 5px 32px !important;
+    color: white !important;
+
+}
+.canselbtn:active {
+    border-radius: 5px !important;
+    background: #28A5C1 !important;
+    border: 2px solid #28A5C1 !important;
+    padding: 5px 32px !important;
+    color: white !important;
+
+}
+.svebtn {
+    border-radius: 5px !important;
+    background: #28A5C1 !important;
+    border: 1px solid #28A5C1 !important;
+    padding: 5px 32px !important;
+    color: white !important;
+
+}
+.svebtn:hover {
+    border-radius: 5px !important;
+    background: #0f414d !important;
+    border: 1px solid #0f414d !important;
+    padding: 5px 32px !important;
+    color: white !important;
+
+}

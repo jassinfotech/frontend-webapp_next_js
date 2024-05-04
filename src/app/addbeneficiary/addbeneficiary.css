@@ -1,0 +1,268 @@
+.employee_text {
+  color: #023a51;
+  font-family: "Poppins";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.employee_filter {
+  border-radius: 5px;
+  border: 1px solid rgba(220, 217, 217, 0.6);
+  background: #fff;
+  color: #023a51;
+  font-family: "Poppins";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.btn-ok {
+  color: #fff;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  border-radius: 5px;
+  background: #28a5c1;
+  padding: 6px 32px;
+}
+
+.btn-cancel {
+  color: #023a51;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  border-radius: 5px;
+  border: 1px solid #dcd9d9;
+  background: #f9fafb;
+}
+
+.poipuptext {
+  color: #023a51;
+  font-family: "Poppins";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.btn_addbals {
+  border-radius: 5px;
+  background: #28a5c1;
+  color: #fff;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.uploadtext {
+  color: #023a51;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.file_text {
+  color: #59667d;
+  font-family: "Poppins";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.top_popup_text {
+  color: #023a51;
+  font-family: "Poppins";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.form-check-input_activ {
+  width: 20px;
+  height: 20px;
+}
+
+.add_be {
+  border-radius: 5px;
+  border: 1px solid #28a5c1;
+  background: #28a5c1;
+  box-shadow: 0px 5px 20px 0px rgba(40, 165, 193, 0.2);
+}
+
+button.btn_short-by {
+  border-radius: 5px;
+  border: 1px solid rgba(220, 217, 217, 0.6);
+  background: #28a5c1;
+  width: 188px;
+  height: 60px;
+  margin-top: 7px;
+  color: #fff;
+}
+
+.bene_fic {
+  color: #59667d;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.employee_text {
+  color: #023a51;
+  font-family: Poppins;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.pa_yd {
+  width: 184px;
+  height: 163px;
+}
+
+.num_ber {
+  color: #023a51;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding: 0px 11px;
+}
+
+.ban_k {
+
+  height: 60px;
+  border-radius: 5px;
+  border: 1px solid #DCD9D9;
+  background: #FFF;
+}
+
+.but_sub {
+  width: 120px;
+  height: 50px;
+  border-radius: 5px;
+  border: 1px solid #28A5C1;
+  background: #28A5C1;
+  box-shadow: 0px 5px 20px 0px rgba(40, 165, 193, 0.20);
+  margin-top: 50px;
+  color: #fff;
+}
+
+.resend {
+  color: #28A5C1;
+  font-family: "Poppins";
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text_time {
+  color: #59667D;
+  font-family: 'Poppins';
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.def_au {
+
+  height: 50px;
+  border-radius: 2px;
+  border: 1px solid #E0ECF0;
+  background: #FFF;
+}
+
+.ent_er {
+  color: #59667D;
+  font-family: "Poppins";
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.2px;
+}
+
+.we_sent {
+  color: #023A51;
+  font-family: "Poppins";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.code_v {
+  width: 298px;
+  height: 40px;
+}
+
+.back_btn_emp {
+  color: #28A5C1;
+  text-align: center;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.del_ete {
+  width: 132px;
+  height: 46px;
+  border-radius: 5px;
+  background: #28A5C1;
+  color: #fff;
+}
+
+.btn-cancel {
+  width: 132px;
+  height: 46px;
+}
+
+.btn-ok {
+  width: 132px;
+  height: 46px;
+}
+
+.top_popup_text {
+  color: #023A51;
+  text-align: center;
+  font-family: "Poppins";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+}
+
+.ent_er {
+  height: 50px;
+}
+
+.ban_kname {
+  color: #59667D;
+  font-family: "Poppins";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.28px;
+  height: 50px;
+}

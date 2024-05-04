@@ -1,0 +1,20 @@
+.login_bg {
+  width: 100%;
+  background-image: url('../../public/img/login_bg.png');
+  height: 100vh;
+  background-size: cover;
+}
+
+.btn {
+  background: #28A5C1;
+  border: 1px solid #28A5C1;
+  border-radius: 5px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  padding: 10px;
+}

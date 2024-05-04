@@ -1,0 +1,134 @@
+.headding {
+    font-size: 22px !important;
+    font-family: "Poppins" !important;
+    font-weight: 500;
+    color: #023A51;
+}
+
+p.pagratext {
+    text-align: center;
+    font-size: 16px;
+    font-family: "Poppins";
+    font-weight: 500;
+    color: #59667D;
+}
+
+.h_text h4 {
+    text-align: center;
+    font-size: 18px;
+    font-family: "Poppins";
+    font-weight: 500;
+    color: #023A51;
+}
+
+.enquiry_from {
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 1px 1px 20px 1px rgba(40, 165, 193, 0.15);
+    padding: 62px 60px 0px 60px;
+}
+
+.card-img-bottom {
+    width: 376px;
+    height: 214px;
+}
+
+
+.input {
+    border-radius: 5px;
+    border: 1px solid #DCD9D9;
+    background: #FFF;
+    padding: 10px !important;
+}
+
+.form-check-input:checked {
+    background-color: #28A5C1 !important;
+    border-color: #28A5C1 !important;
+}
+
+.form-check-input {
+    padding: 5px;
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+    margin-top: 2px;
+}
+
+.text_countr h4 {
+    color: #023A51;
+    font-family: "Poppins";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.usertext {
+    background: #F9FAFB;
+    border-radius: 5px;
+}
+
+.usertext:hover {
+    border-radius: 5px;
+    background: #F9FAFB;
+    box-shadow: 1px 10px 30px 1px #DCD9D9;
+    cursor: pointer;
+}
+
+.bg-clr1 {
+    background-color: #E0ECF0;
+}
+
+.bg-clr2 {
+    background-color: #F9FAFB;
+}
+
+.card-text {
+    color: #023A51;
+    font-size: 16px;
+    font-family: "Poppins";
+}
+
+.bg_img_clr {
+    background-color: #28A5C1;
+    border: 3px solid #28A5C1;
+    border-radius: 22px;
+}
+
+.bg_btn_clr {
+    background-color: #28A5C1 !important;
+    color: white !important;
+    border-radius: 5px !important;
+}
+
+.bg_btn_clr:hover {
+    background-color: black !important;
+    color: white;
+}
+
+a.resend {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #28A5C1;
+}
+
+.text_time {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #59667D;
+}
+
+
+
+label span {
+    color: #FF6347;
+    position: absolute;
+    margin-left: 3px;
+    font-size: 10px;
+    margin-top: 3px;
+}

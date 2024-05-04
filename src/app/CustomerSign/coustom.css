@@ -1,0 +1,336 @@
+svg.icon_check.text-success {
+    width: 30px;
+    height: 30px;
+    background: #198754;
+    padding: 6px;
+    border-radius: 50px;
+    position: relative;
+    z-index: 10;
+    color: #fff !important;
+}
+
+.icon_uncheck {
+    width: 30px;
+    height: 30px;
+    background: #ffff;
+    border: 1px solid #ddd;
+    border-radius: 50px;
+    position: relative;
+    z-index: 10;
+}
+
+.progress_my {
+    position: relative;
+    top: -80px;
+    background: #ddd;
+    height: 3px !important;
+    z-index: 1;
+    margin: 0px 25px 0px 46px;
+}
+
+.max_h {
+    height: 475px;
+}
+
+.tesxt_t small {
+    position: absolute;
+    top: 32px;
+    left: -6px;
+}
+
+.tesxt_t small:active {
+    color: #056918;
+
+}
+
+.tesxt_t small {
+    position: absolute;
+    top: 32px;
+    left: -48px;
+    text-align: center;
+    width: 129px;
+}
+
+
+
+.btn_th {
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn_th i {
+    color: #fff;
+}
+
+.icons {
+    font-size: 20px;
+    margin: 0px 10px;
+}
+
+.text_p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #59667D;
+    padding: 20px;
+}
+
+.profile_pic {
+    width: 235px;
+    margin: 0px auto;
+}
+
+.btn_up {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: center;
+    color: #59667D;
+    background: #FFFFFF;
+    border: 1px solid rgba(220, 217, 217, 0.6);
+    box-shadow: 0px 10px 60px -11px #28A5C1;
+    border-radius: 5px;
+}
+
+.user_img img {
+    border: 1px solid rgba(220, 217, 217, 0.6);
+    box-shadow: 0px 10px 60px -11px #28A5C1;
+    border-radius: 5px;
+    border-radius: 50px;
+}
+
+.input {
+    font-size: 15px;
+    padding: 12px 10px;
+    border: 1px solid rgba(220, 217, 217, 0.6);
+    border-radius: 5px;
+}
+
+.label_kyc {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #023A51;
+}
+
+.card_kyc {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #023A51;
+    padding-left: 10px;
+}
+
+.butt_ve {
+    background: #28A5C1;
+    border: 1px solid #28A5C1;
+    box-shadow: 0px 5px 20px rgba(40, 165, 193, 0.2);
+    border-radius: 50px;
+    color: #fff;
+    padding: 5px 30px;
+}
+
+.Overlay {
+    background-color: rgb(102 98 98 / 39%) !important;
+}
+
+.card_kyc {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 15px;
+    text-align: center;
+    color: #023A51;
+    padding-left: 10px;
+    padding: 12px 7px 7px 15px;
+}
+
+.cust_kyc1 {
+
+    background: #FFFFFF;
+    border: 1px solid #DCD9D9;
+    border-radius: 5px;
+}
+
+.text_kyc {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #59667D;
+}
+
+.text_kyc1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #59667D;
+}
+
+.but_skip {
+    margin-right: 80px;
+    width: 100px;
+    height: 44px;
+    background: #59667D;
+    border: 1px solid #59667D;
+    box-shadow: 0px 5px 20px rgba(40, 165, 193, 0.2);
+    border-radius: 5px;
+    color: #fff;
+}
+
+.but_skip:hover {
+
+    background: #28A5C1;
+
+}
+
+.progress_landsckep ul {
+    list-style: none;
+    padding: 0px;
+    position: relative;
+}
+
+.progress_landsckep ul li {
+    list-style: none;
+    padding-top: 10px;
+}
+
+.progress_landsckep {
+    padding: 10px;
+    margin: 0px 0px;
+    padding-top: 0;
+}
+
+
+.progress_landsckep ul li a {
+    padding: 0px 9px;
+    border: 1px solid #b3b3b3;
+    position: relative;
+    font-size: 23px;
+    width: 40px;
+    height: 40px;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+li.pt-55 {
+    margin-top: 153px;
+}
+
+.border_progss {
+    height: 350px;
+    width: 2px;
+    position: absolute;
+    margin-left: 19px;
+    margin-top: 10px;
+}
+
+.crad_sw {
+    background: #FFFFFF;
+    border: 1px solid #DCD9D9;
+    box-shadow: 0px 10px 60px -30px #28A5C1;
+    border-radius: 5px;
+    width: 90%;
+}
+
+.crad_sw p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+
+    letter-spacing: 0.02em;
+}
+
+a.cirol-round {
+    width: 74px;
+    display: block;
+}
+
+.progress_landsckep ul li a {
+    padding: 0px 9px;
+    border: 1px solid #b3b3b3;
+    position: relative;
+    font-size: 23px;
+}
+
+.btn_them {
+    border-radius: 5px;
+    width: 122px;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+.bg-t {
+    background: #28A5C1;
+}
+
+
+.for_ms {
+    width: 428px;
+    height: 36px;
+
+    padding-left: 10px
+}
+
+.head {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    color: #023A51;
+    padding-bottom: 45px;
+}
+
+.text_check li {
+    list-style: none;
+    padding: 10px 1px;
+}
+
+a.resend {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #28A5C1;
+}
+
+.text_time {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #59667D;
+}
+
+.input {
+    padding: 11px !important;
+}
+
+.shop_h {
+    color: #023A51;
+    text-align: center;
+    font-size: 22px;
+    font-family: Poppins;
+    font-weight: 500;
+}
+
+.toptext {
+    color: #023A51;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

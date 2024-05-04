@@ -1,0 +1,158 @@
+.formtext1 {
+    color: #59667D;
+    font-size: 12px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.formtext2 {
+    color: #28A5C1;
+    font-size: 12px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.formtext3 {
+    color: #023A51;
+    font-size: 16px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.formtext4 {
+    color: #023A51;
+    font-size: 14px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.formtext5 {
+    color: #59667D;
+    font-size: 14px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.formtext6 {
+    color: #072a38;
+    font-size: 16px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.formtext7 {
+    color: var#023A51;
+    font-size: 14px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.formtext8 {
+    color: #023A51;
+    font-size: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.formtext9 {
+    color: #28A5C1;
+    font-size: 12px;
+    font-family: Poppins;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.formtext10 {
+    color: #DCD9D9;
+    font-size: 12px;
+    font-family: Poppins;
+    font-style: italic;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.formtext11 {
+    color: #59667D;
+    font-size: 14px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.img_pay{
+    width: 100px;
+}
+
+.formtext12 {
+    color: #023A51;
+    font-size: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.frmbtn1 {
+    border-radius: 5px;
+    border: 1px solid #28A5C1;
+    background: #28A5C1;
+    box-shadow: 0px 5px 20px 0px rgba(40, 165, 193, 0.20);
+    color: white;
+    width: 542px;
+    height: 60px;
+}
+
+
+
+.form-check-input:checked {
+    background-color: #28A5C1;
+    border-color: #7fdaef;
+}
+
+.chec_icon {
+    font-size: 39px;
+    border: 2px solid #127C1D;
+    border-radius: 50%;
+    color: #127C1D;
+}
+
+.text_clr {
+    color: #0ab5dc;
+}
+
+.bdr_clr1 {
+    border: 1px solid #28A5C1;
+    background-color: white;
+}
+
+.prosesing_clr {
+    color: #28A5C1;
+}
+
+.popup_text_clr {
+    color: #59667D;
+    font-size: 14px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.28px;
+}

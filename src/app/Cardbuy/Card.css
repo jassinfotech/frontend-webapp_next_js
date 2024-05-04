@@ -1,0 +1,141 @@
+.frmbtn {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-radius: 5px;
+    border: 1px solid #28A5C1;
+    background: #28A5C1;
+    box-shadow: 0px 5px 20px 0px rgba(40, 165, 193, 0.20);
+    height: 60px;
+}
+
+.frmbtn2 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-radius: 5px;
+    border: 1px solid #28A5C1;
+    background: #28A5C1;
+    box-shadow: 0px 5px 20px 0px rgba(40, 165, 193, 0.20);
+    height: 50px;
+    width: 160px;
+}
+
+.inputbordere {
+    border-bottom: 1px solid #59667D !important;
+    border-radius: 0px;
+}
+
+.formtext {
+    color: var(--sub-text, #59667D);
+    font-size: 14px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.formtext1 {
+    color: var #023A51;
+    font-size: 14px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.formtext2 {
+    color: var #023A51;
+    font-size: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.backlink {
+    color: #28A5C1;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.form-check-input:checked {
+    background-color: #28A5C1;
+    border-color: #76d1e6;
+}
+
+.backicon {
+    font-size: 23px;
+
+}
+
+.textstyle1 {
+    color: #59667D;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.tablinktextstyle1 {
+    color: #28A5C1 !important;
+    font-family: Poppins;
+    font-size: 16px !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-bottom: 2px solid #28A5C1 !important;
+}
+
+.tablinktextstyle2 {
+    color: #023A51;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.tablinktextstyle2:hover {
+    color: #28A5C1 !important;
+    font-family: Poppins;
+    font-size: 16px !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-bottom: 2px solid #28A5C1 !important;
+}
+
+.tablinktextstyle3 {
+    color: #28A5C1 !important;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.tablinktextstyle4 {
+    color: #023A51;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.cardintext {
+    color: #023A51;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

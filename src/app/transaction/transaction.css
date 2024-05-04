@@ -1,0 +1,79 @@
+.sidebar_aira {
+    width: 22%;
+    padding: 0px;
+}
+
+.contant_ariya {
+    width: 78%;
+    padding: 0px;
+}
+
+.but3 {
+    padding: 11px 15px;
+    margin-top: 2px;
+    color: black;
+}
+
+.dete_piker {
+    padding: 15px 7px;
+    font-size: 13px;
+    border-radius: 0;
+}
+
+.fliter_btn_2 {
+    padding: 10px 12px;
+    border: 1px solid #ddd !important;
+    width: 100%;
+    margin-top: 7px;
+    border-radius: 0;
+    color:  #023A51;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.category_btn_2 {
+    display: flex;
+}
+
+.selet_f {
+    padding: 10px;
+    font-size: 13px;
+}
+
+.nav-ticketlist li {
+    padding: 0px 62px 0px 0px;
+}
+
+.nav-ticketlist {
+    background-color: #fff;
+}
+
+.nav-ticketlist li button {
+    color: #000;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    padding: 14px 40px;
+    line-height: normal;
+}
+
+.nav-ticketlist li button:hover {
+    color: #28A5C1;
+    border-bottom: 1px solid #28A5C1;
+}
+
+.nav-ticketlist>li button.active {
+    color: #28A5C1 !important;
+    border-radius: 0px 10px 0px 0px;
+    border-bottom: 2px solid  #28A5C1;
+    background:  #F9FAFB;
+}
+
+ul.nav-ticketlist {
+    background-color: #fff;
+    border-bottom: 1px solid #c6c4c4 !important;
+}

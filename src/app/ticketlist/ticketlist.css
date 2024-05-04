@@ -1,0 +1,33 @@
+.nav-ticketlist li {
+    padding: 0px 62px 0px 0px;
+}
+
+.nav-ticketlist{
+    background-color: #fff;
+}
+
+.nav-ticketlist li button {
+    color: #000;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    padding: 14px 40px;
+    line-height: normal;
+}
+
+.nav-ticketlist li button:hover {
+    color:  #28A5C1 ;
+    border-bottom: 1px solid #28A5C1;
+}
+.nav-ticketlist > li button.active {
+    color: #28A5C1 !important;
+    border-bottom: 1px solid #28A5C1;
+    background-color: #f6f5f5;
+  }
+
+  ul.nav-ticketlist {
+    background-color: #fff;
+    border-bottom: 1px solid #c6c4c4 !important;
+  }
+ 

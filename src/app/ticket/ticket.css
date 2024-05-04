@@ -1,0 +1,94 @@
+.heading {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #023A51;
+}
+
+.header_ticket {
+    background: #F9FAFB;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.header_ticket h5 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #28A5C1;
+}
+
+.header_ticket h6 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #59667D;
+}
+
+#uploadButton {
+    padding: 10px 0px;
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.uploadButton_icon {
+    margin-right: 5px;
+}
+
+.send_btn {
+    background: #28A5C1;
+    border-radius: 5px;
+    padding: 7px 20px;
+    color: #fff;
+}
+
+.send_btn:hover {
+    background: #0f1112;
+    color: #fff;
+
+}
+
+.detils h5 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #023A51;
+    margin-bottom: 0;
+}
+
+.detils h6 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #28A5C1;
+}
+
+.detils h6 small {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: #59667D;
+}
+
+.detils p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #59667D;
+}
+
+.card_s_tick {
+    border-radius: 4px;
+    border: 1px solid rgba(220, 217, 217, 0.60);
+    background: #FFF;
+}
+.text_arika {
+    border: none;
+    border-radius: 0px;
+}

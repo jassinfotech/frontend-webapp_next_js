@@ -1,0 +1,64 @@
+.text-style1 {
+    color: #023A51;
+    font-family: "Poppins";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+
+.text-style3 {
+    color: #59667D;
+    font-family: "Poppins";
+    font-size: 14px !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    word-spacing: 4px;
+}
+
+.employee_btn {
+    color: #FFF;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    background: #28A5C1;
+}
+
+.text-style4 {
+    color: #59667D;
+    text-align: center;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.submit {
+    color: #FFF;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border-radius: 5px;
+    border: 1px solid #28A5C1;
+    background: #28A5C1;
+    box-shadow: 0px 5px 20px 0px rgba(40, 165, 193, 0.20);
+
+}
+
+.back_btn_emp {
+    color:  #28A5C1;
+    text-align: center;
+    font-family: "Poppins";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
